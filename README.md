@@ -1,6 +1,6 @@
 ### Hello World, I'm Hiba  👋
 
- <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif?raw=true" width="500"  />
 
 
 ## I'm a student from SMK Raden Umar Said Indonesia!
