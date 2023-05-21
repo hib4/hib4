@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=hibakun&label=Profile%20Views&color=0e75b6&style=flat" alt="hibakun" />
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
 
@@ -51,7 +53,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 20/05/2023 23:01:36 UTC
 <!--END_SECTION:waka-->
-
-<img src="https://komarev.com/ghpvc/?username=hibakun&label=Profile%20views&color=0e75b6&style=flat" alt="hibakun" />
 
 [![@hibakun's Holopin board](https://holopin.me/hibakun)](https://holopin.io/@hibakun)
