@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 17pm UTC or 12am UTC+7
+    # Runs at 17 pm UTC or 12 am UTC+7
     - cron: '0 17 * * *'
   workflow_dispatch:
 jobs:
@@ -27,7 +27,7 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_EDITORS: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "True"
